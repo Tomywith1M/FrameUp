@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178762031363",
+    "project_id": "frame-up-c3c88",
+    "storage_bucket": "frame-up-c3c88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178762031363:android:03b1db4247adc92d87c936",
+        "android_client_info": {
+          "package_name": "com.example.frame_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178762031363-5cpmt4hlos09u1p06ndp8c7quuiuingj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAahPhlTcns9GCVo1nTerS6g_KPrk9k1YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178762031363-5cpmt4hlos09u1p06ndp8c7quuiuingj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
